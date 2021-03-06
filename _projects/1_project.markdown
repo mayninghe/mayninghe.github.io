@@ -1,8 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Muscle Activation Patterns
+description: Implemented non-negative matrix factorization to decompose muscle activation patterns. <p style="font-size:60%">Photo by <a href="https://www.frontiersin.org/articles/10.3389/fncom.2013.00043/full" target="_blank">Alessandro et al.</a>, <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">used under CC BY</a></p>
+img: /assets/img/synergy.jpg
+redirect: "https://github.com/mayninghe/muscle_synergy_torque_accuracy"
+github: "https://github.com/mayninghe/muscle_synergy_torque_accuracy"
 importance: 1
 ---
 

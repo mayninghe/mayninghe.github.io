@@ -294,7 +294,7 @@ footer.sticky-bottom {
 
 .projects {
   .grid-item {
-    width: 250px;
+    width: 350px;
     margin-bottom: 10px;
     a {
       color: black;
@@ -308,6 +308,30 @@ footer.sticky-bottom {
     width: 100%;
   }
 }
+
+
+// Teaching
+
+.teaching {
+    .grid-item {
+        width: 350px;
+        margin-bottom: 10px;
+
+        a {
+            color: black;
+            text-decoration: none;
+
+            &:hover {
+                color: var(--global-theme-color);
+            }
+        }
+    }
+
+    .card img {
+        width: 100%;
+    }
+}
+
 
 
 // Publications

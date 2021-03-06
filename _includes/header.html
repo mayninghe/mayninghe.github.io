@@ -6,7 +6,7 @@
             {% if page.title != "about" %}
             <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
                 <div class="logo-image">
-                    <img src='../assets/img/Ninghe_print_blue_50.png'>
+                    <img src="{{ '/assets/img/Ninghe_print_blue_50.png' | relative_url }}">
                 </div>
             </a>
             {% elsif site.show_social_icons %}
