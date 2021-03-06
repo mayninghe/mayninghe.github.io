@@ -87,9 +87,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+  #projects:
+    #output: true
+    #permalink: /projects/:path/
 
 news_limit: 5
 
@@ -138,8 +138,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Cai
+  first_name: [Ninghe, N., Ninghe M., NM.]
 
   style: apa
   locale: en
