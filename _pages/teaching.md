@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here are lectures and presentations I developed related to neuroscience, proprioception, psychophysics experimental design, and statistical methods.
+description: Here are lectures and presentations I developed related to neuroscience, proprioception, psychophysics experimental design, and statistical methods. More to come~
 nav: true
 
 ---
